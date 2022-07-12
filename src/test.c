@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-void test(int value)
+void test(Vec2f vec)
 {
-    printf("%d\n", value);
+    printf("%f, %f\n", vec.x, vec.y);
 }

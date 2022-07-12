@@ -1,0 +1,3 @@
+[submodule "libs/colossus-core"]
+	path = libs/colossus-core
+	url = https://github.com/nanoswing/colossus-core.git

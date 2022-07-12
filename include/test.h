@@ -1,3 +1,5 @@
 #pragma once
 
-extern void test(int value);
+#include <core/linear_algebra.h>
+
+extern void test(Vec2f vec);
